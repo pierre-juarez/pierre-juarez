@@ -1,4 +1,4 @@
-- 👋 Hola, soy @pierre-juarez, desarrollador web y futuro Frontend.
+- 👋 Hola, soy Pierre Juarez, Desarrollador Web y futuro Frontend.
 - 👀 Me interesa ayudar a las personas aportando soluciones tecnológicas.
 - 🌱 Actualmente estoy aprendiendo los fundamentos, bases y frameworks de Frontend y mejorando constantemente.
 - 💞️ Busco colaborar en proyectos personales, guías temáticas, talleres mixtos, etc.
@@ -8,7 +8,7 @@
 ******************************************
 
 
-- 👋 Hi, I’m @pierre-juarez, web developer and future Frontend.
+- 👋 Hi, I’m Pierre Juarez, Web Developer and future Frontend.
 - 👀 I am interested in helping people by providing technological solutions.
 - 🌱 I am currently learning the fundamentals, bases and frameworks of Frontend and constantly improving.
 - 💞️ I am looking to collaborate on personal projects, thematic guides, mixed workshops, etc.
