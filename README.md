@@ -16,7 +16,7 @@
 
 <h4 align="center">Estadísticas de mi GitHub 🧐</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierre-juarez&show_icons=true&theme=synthwave&locale=es&hide_border=true&border_radius=10&count_private=true&custom_title=Estadísticas que no mienten (espero)"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierre-juarez&show_icons=true&theme=synthwave&locale=es&hide_border=true&border_radius=10&count_private=true&custom_title=Estad%C3%ADsticas%20que%20no%20mienten%20(espero)"/></p>
 
 
 
@@ -41,7 +41,7 @@
 
 <h4 align = "center">My GitHub statistics 🧐</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierre-juarez&show_icons=true&theme=synthwave&locale=es&hide_border=true&border_radius=10&count_private=true&custom_title=Statistics that don't lie (I hope)"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierre-juarez&show_icons=true&theme=synthwave&locale=es&hide_border=true&border_radius=10&count_private=true&custom_title=Statistics%20that%20don%27t%20lie%20(I%20hope)"/></p>
 
 
 
