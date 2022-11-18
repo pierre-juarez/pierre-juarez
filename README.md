@@ -24,7 +24,7 @@
 
 ## Who I am? 😬 (In English)
 <h2 align="center"> About me </h2>
-<p>Hi👋! I'm Pierre Juarez, Web Jr, Frontend JS and Backend PHP Developer with more than a year of experience in the tech field.</p>
+<p>Hello 👋!, I'm Pierre Juarez, Fullstack Software Developer with more than a year of experience in the tech field.</p>
 <p>Specialist in opting for the visual aspect, and prioritizing user satisfaction/experience.</p>
 <p>I know that I have a lot to learn, and that technology grows day by day, so I never stop.</p>
 <p>The limit is the sky! ❤</p>
