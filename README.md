@@ -1,6 +1,6 @@
 ## ¿Quién soy? 😬 (En español)
 <h2 align="center">Sobre mí</h2>
-<p>¡Hola👋!, soy Pierre Juarez, Desarrollador Web Jr, Frontend JS y Backend PHP con más de un año de experiencia en el rubro tech.</p>
+<p>¡Hola👋!, soy Pierre Juarez, Desarrollador de Software Fullstack con más de un año de experiencia en el rubro tech.</p>
 <p>Especialista en decantar por el aspecto visual, y priorizar la satisfacción/experiencia del usuario.</p>
 <p>Sé que me falta mucho por aprender, y que la tecnología crece día a día, así que nunca dejo de hacerlo.</p>
 <p>¡El límite es el cielo! ❤</p>
