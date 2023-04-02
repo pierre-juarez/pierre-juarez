@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋, I'm Pierre Juarez, Fullstack Software Developer with more than a year of experience in the tech industry. <br>🔭 I'm currently working as a Junior Software Developer at @FITCOSA.<br>🤓 I'm looking to collaborate in personal projects, theme guides, mixed workshops, etc. <br>⚡ Fun fact about me: I did NOT like programming when I started in it. 👀<br>💡 Ask me about anything you believe in that I can help you with.<br>🥳 I also share content about what I'm learning. <br>"Learning is good, teaching, is even better." 💙<br>
+Hello👋, I'm Pierre Juarez, Fullstack Software Developer with more than a year of experience in the tech industry. <br>🔭 I'm currently working as a Junior iOS Developer at @Mapsalud.<br>🤓 I'm looking to collaborate in personal projects, theme guides, mixed workshops, etc. <br>⚡ Fun fact about me: I did NOT like programming when I started in it. 👀<br>💡 Ask me about anything you believe in that I can help you with.<br>🥳 I also share content about what I'm learning. <br>"Learning is good, teaching, is even better." 💙<br>
 
 
 ## 🌐 Socials:
